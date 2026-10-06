@@ -1,0 +1,6 @@
+{
+  "name": "CENTERPRIZE TRAVEL GROUPIE",
+  "description": "Shop our essential travel gear and book exclusive travel deals with Centerprize Travel Groupie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
